@@ -1,2 +1,2 @@
 # Projects
-Testing a training 
+Download project and open it.
