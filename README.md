@@ -1,3 +1,7 @@
-# Projects
-Download project and open it.
-[https://github.com/L-silva-png/Projects/blob/main/HTML_CV.html](https://github.com/L-silva-png/Projects)
+# HTML CV
+
+HTML CV is a HTML project 
+
+## Installation
+
+Use the package manager [CV]([https://pip.pypa.io/en/stable/](https://github.com/L-silva-png/Projects/blob/main/HTML_CV.html)) to install.
